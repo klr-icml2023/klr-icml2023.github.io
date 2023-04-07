@@ -352,7 +352,8 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-td,
+td { width: 33%; }
+
 th {
   padding: 0; }
 
