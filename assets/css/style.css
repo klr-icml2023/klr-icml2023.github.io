@@ -347,6 +347,8 @@ optgroup {
  * Remove most spacing between table cells.
  */
 table {
+  table-layout: fixed;
+  width: 100px;
   border-collapse: collapse;
   border-spacing: 0; }
 
