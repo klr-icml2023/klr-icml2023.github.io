@@ -347,12 +347,10 @@ optgroup {
  * Remove most spacing between table cells.
  */
 table {
-  table-layout: fixed;
-  width: 100px;
   border-collapse: collapse;
   border-spacing: 0; }
 
-td { width: 33%; }
+td,
 
 th {
   padding: 0; }
